@@ -1,4 +1,4 @@
 ## welcome to git!
 
-- this is coming from dev rudeboy
+- Yo this is coming from dev branch
 - im adding this from features branch
